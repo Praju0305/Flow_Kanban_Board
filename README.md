@@ -53,9 +53,3 @@ npm run build
 - `src/types.ts`: TypeScript interfaces and constants
 - `src/index.css`: Tailwind CSS imports
 - `src/main.tsx`: Application entry point
-
-<<<<<<< HEAD
-
-```
-=======
->>>>>>> 53fa915 (Update README with deployment instructions and cleanup)
