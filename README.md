@@ -31,7 +31,7 @@ A simplified, functional Kanban-style task board built with React 18+, TypeScrip
    npm run dev
    ```
 
-3. Open [http://localhost:5173](http://localhost:5173) in your browser.
+3. Open [http://localhost:5174](http://localhost:5173) in your browser.
 
 ## Building for Production
 
@@ -53,7 +53,9 @@ npm run build
 - `src/types.ts`: TypeScript interfaces and constants
 - `src/index.css`: Tailwind CSS imports
 - `src/main.tsx`: Application entry point
-  import reactDom from 'eslint-plugin-react-dom'
 
+<<<<<<< HEAD
 
 ```
+=======
+>>>>>>> 53fa915 (Update README with deployment instructions and cleanup)
